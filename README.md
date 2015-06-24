@@ -1,7 +1,7 @@
 CSSJSMinify
 ===========
 
-This shell script will minify Javascript and CSS files. This may cause problems in situations that have code in quotations. This will not know the difference between commented out code and coe that is in use.
+This shell script will minify Javascript and CSS files. This may cause problems in situations that have code in quotations. This will not know the difference between commented out code and code that is in use.
 
 How it works
 ============
